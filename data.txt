@@ -1,8 +1,9 @@
 master -> fixbug -> bug1.1.1
 HUMM
+<<<<<<< HEAD
 This is br1
 br2
 br3
 br4
 br5
-CHANGE in local
+ADD NEW BRANCH
